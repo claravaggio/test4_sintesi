@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+text {
+  font-family: "aktiv-grotesk", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
