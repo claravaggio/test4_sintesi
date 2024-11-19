@@ -10,7 +10,7 @@ let auto2Speed = 1.5; // Velocità della seconda auto
 
 let gameOver = false;
 let imageVisible = false; // Controlla se l'immagine è visibile
-let imageSwitchTime = 2000; // Tempo in millisecondi per cambiare immagine
+let imageSwitchTime = 1000; // Tempo in millisecondi per cambiare immagine
 let imageTimer = 0; // Timer per la pressione della spacebar
 let releaseTimer = 0; // Timer per il rilascio della spacebar
 let currentImage; // Immagine attualmente mostrata
